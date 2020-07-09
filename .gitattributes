@@ -1,0 +1,2 @@
+*.htnl filter=lfs diff=lfs merge=lfs -text
+*.htnml filter=lfs diff=lfs merge=lfs -text
