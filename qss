@@ -1,0 +1,166 @@
+[33mcommit 2f75c454b99af72e1235da799f165bef4cf7683d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Fri Jul 10 12:08:12 2020 +0500
+
+    ss delete
+
+[33mcommit b4f83378c848a73f36ac1371b50c5bb54825263f[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Thu Jul 9 16:48:31 2020 +0500
+
+    lfs ss added
+
+[33mcommit 1336f65a6e9d34e7079244140fc52c1767a4f44e[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Thu Jul 9 16:45:07 2020 +0500
+
+    comit large files
+
+[33mcommit 2ee227117a50f4851d3e4a0bb3a1ecb98ecbbd35[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Thu Jul 9 16:04:13 2020 +0500
+
+    add file .html
+
+[33mcommit 1fae486b702b922b1b1b767432dec6b6d5979198[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Thu Jul 9 13:29:25 2020 +0500
+
+    thursday-2
+
+[33mcommit a6f8a199e829703dfdbed314256a2102ce069ed9[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Thu Jul 9 13:27:53 2020 +0500
+
+    thursday commit
+
+[33mcommit d47a56f541de52bf3dcc4a2457b54d67732d9599[m
+Merge: a15d47b 30ded5d
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 16:39:56 2020 +0500
+
+    conflict resolved by me
+
+[33mcommit 30ded5dbe8654ecad1380fc9d11afdd539c6026e[m
+Author: MuhammadAbdullah899 <61027424+MuhammadAbdullah899@users.noreply.github.com>
+Date:   Wed Jul 8 16:37:57 2020 +0500
+
+    Update a.txt
+
+[33mcommit a15d47bad1ddb5e5043908f203ab6cf6f3dde99c[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 16:37:06 2020 +0500
+
+    new-conflict
+
+[33mcommit 50bc01c8c90b05754dcc415a98dc5be44d5a612c[m
+Merge: 5dfa936 60b4a2f
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 16:30:17 2020 +0500
+
+    Merge branch 'master' of https://github.com/MuhammadAbdullah899/myappsample
+
+[33mcommit 5dfa9364f2fd396285813612f9452e4b58f6ba21[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 16:26:57 2020 +0500
+
+    new commit
+
+[33mcommit 60b4a2f0c0f74ab49b171c1473ef5b07c8052a95[m
+Author: MuhammadAbdullah899 <61027424+MuhammadAbdullah899@users.noreply.github.com>
+Date:   Wed Jul 8 16:25:53 2020 +0500
+
+    Create remoteFile.txt
+
+[33mcommit b80866401f893f6bb7f51b6ca4504856c3add3d1[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:30:07 2020 +0500
+
+    a-1
+
+[33mcommit af4d9ae0397111c0a76bc85897183cef932d7470[m
+Merge: 6d7f15a 6232ddc
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:28:58 2020 +0500
+
+    master-new
+
+[33mcommit 6d7f15aa37830ceca868cf643a2dd49f4e14ac1f[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:23:01 2020 +0500
+
+    master-five
+
+[33mcommit 6232ddcdf2d24b6b0ee36545ae4e37d707d11bbb[m[33m ([m[1;32mone[m[33m)[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:21:24 2020 +0500
+
+    one-5
+
+[33mcommit 2aef38bc7292e2c070d0ecd60d55cca94126a985[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:20:40 2020 +0500
+
+    one-4
+
+[33mcommit c4cb4585800ff7ab2ba7444dc768a81549c5a43c[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:16:21 2020 +0500
+
+    master-four
+
+[33mcommit 3fbe6fed70995cd531fb3d2925d8a911c979735d[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:03:53 2020 +0500
+
+    one-3
+
+[33mcommit f908907a80619c8c167794ee41be35ead54dc4c2[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Wed Jul 8 13:00:00 2020 +0500
+
+    branch one first commit
+
+[33mcommit 2e20108e13e10671b311e35a38adb44a45708c43[m[33m ([m[1;32mtwo[m[33m)[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Tue Jul 7 11:07:41 2020 +0500
+
+    second day first commit
+
+[33mcommit f70f4839f050875cac6c6e1b1e20f8ccd143dc11[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 17:48:56 2020 +0500
+
+    Added Readme
+
+[33mcommit 1316bf89a92cb849b7a1c7e553996c7eb1bbdb88[m
+Merge: 82313ec e64e098
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 17:08:47 2020 +0500
+
+    Merge branch 'login'
+    added login
+
+[33mcommit e64e098f35e2661d6d2f19dd47eaec93bc875082[m[33m ([m[1;32mlogin[m[33m)[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 17:06:15 2020 +0500
+
+    login form
+
+[33mcommit 82313ec780025513547265d02e2cfc1c6d036320[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 17:01:45 2020 +0500
+
+    another change
+
+[33mcommit 94ea9ebcf5a59e215e52ac5738c167cfe4a66464[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 16:47:26 2020 +0500
+
+    changed app.js
+
+[33mcommit 8aa10436c2efe721f402d334b00c94c44c45ec6e[m
+Author: MuhammadAbdullah899 <meharabdullah899@gmail.com>
+Date:   Mon Jul 6 16:40:59 2020 +0500
+
+     Initial commit
